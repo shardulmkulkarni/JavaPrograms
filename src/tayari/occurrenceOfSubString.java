@@ -16,6 +16,7 @@ public class occurrenceOfSubString {
 		String findStr = "hello";
 		int lastIndex = 0;
 		int count = 0;
+		
 
 		while (lastIndex != -1) {
 
