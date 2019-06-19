@@ -6,7 +6,7 @@ public class CountingWordsInSentence {
 
 	public static void main(String[] args) {
 
-		String sentence = "Is this a string which is a test for string";
+		String sentence = "Is Is this a string which is a test for string";
 		
 		String[] worlds = sentence.split(" ");
 		

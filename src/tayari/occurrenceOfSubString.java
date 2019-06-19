@@ -14,6 +14,11 @@ public class occurrenceOfSubString {
 		
 		String str = "helloslkhellodjladfjhellohelo";
 		String findStr = "hello";
+		
+		if(str == findStr) {
+			
+		}
+		
 		int lastIndex = 0;
 		int count = 0;
 		
