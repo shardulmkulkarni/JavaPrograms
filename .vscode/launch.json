@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IntegerArray",
+            "request": "launch",
+            "mainClass": "tayari.IntegerArray",
+            "projectName": "programs"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BalancedArray",
+            "request": "launch",
+            "mainClass": "tayari.BalancedArray",
+            "projectName": "programs"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - mirrorChars",
+            "request": "launch",
+            "mainClass": "tayari.mirrorChars",
+            "projectName": "programs"
+        }
+    ]
+}
